@@ -20,3 +20,9 @@ Slider(срока кредита) в приложении Sber в разделе
 Мобильное устройство: IOS iphone 11 pro 
 Версия прошивки: 16.3.1
 
+![Сбер баг 1](https://user-images.githubusercontent.com/128685961/228784526-6b8b9b38-1a57-43db-b002-fc9b3ac5a451.jpeg)
+![Сбер баг 2](https://user-images.githubusercontent.com/128685961/228784536-c50e3e37-4278-4e8a-a259-7d1378d268f0.jpeg)
+
+
+https://user-images.githubusercontent.com/128685961/228784551-a7173a14-0b21-4be2-aea1-8c2945b69a2a.mp4
+
